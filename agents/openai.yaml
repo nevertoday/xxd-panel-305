@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 305"
-  short_description: "剪纸图腾：上半保留原照，下半把主体收成一枚剪纸丝网图腾"
-  default_prompt: "Use $xxd-panel-305 to transform my photograph following the complete canonical source brief."
+  short_description: "剪纸图腾：把照片主体剪成一枚切边不规则、带丝网颗粒的民艺现代符号"
+  default_prompt: "Use $xxd-panel-305 to turn my photo into Cut-Paper Totem artwork."

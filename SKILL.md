@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-305
-description: "Create XXD Panel 305 raster artwork: a faithful photograph paired with one cut-paper folk-modern icon, bold silhouette, screenprint grain and a large quiet field. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-305 or asks for this 剪纸图腾 style."
+description: "XXD Panel 305｜Cut-Paper Totem: keeps the photo and reduces its subject to one bold folk-modern symbol that looks cut from paper and screenprinted — a strong simple outline, a few rounded or geometric flat shapes, irregular cut edges with a thin white paper rim, uneven ink, screenprint grain, paper fibre and slight misregistration, slightly naive and asymmetric. A warm limited palette such as coral, warm yellow, plant green, mist blue and cream in a main, support and accent hierarchy, wide whitespace, and at most a tiny hand-printed brand-style word; no ordinary titles or captions. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-305 or asks for a cut-paper, screenprint folk icon or handmade cultural logo from a photo."
 ---
 
 # XXD Panel 305

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 305｜Cut-Paper Totem: keeps the photo and reduces its subject to one bold folk-modern symbol that looks cut from paper and screenprinted — a strong simple outline, a few rounded or geometric flat shapes, irregular cut edges with a thin white paper rim, uneven ink, screenprint grain, paper fibre and slight misregistration, slightly naive and asymmetric. A warm limited palette such as coral, warm yellow, plant green, mist blue and cream in a main, support and accent hierarchy, wide whitespace, and at most a tiny hand-printed brand-style word; no ordinary titles or captions. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-305 or asks for a cut-paper, screenprint folk icon or handmade cultural logo from a photo.",
+  "short_description": "剪纸图腾：把照片主体剪成一枚切边不规则、带丝网颗粒的民艺现代符号",
+  "zh-CN": {
+    "name": "剪纸图腾",
+    "tagline": "保留原照片，把主体剪成一枚缩小后也认得出的剪纸丝网民艺符号。",
+    "look": "照片保持原样，设计部分把主体压成大胆简洁的外轮廓，用少量圆润或几何的纯色块拼成，比例略夸张、不完全对称，像手剪出来的。切边不规则，边上露一点白纸边，丝网油墨覆盖不匀，纸纤维和轻微套色偏差都看得见。颜色从照片里挑最有生气的几种，变成珊瑚红、暖黄、植物绿、雾蓝、奶油白这类温暖色，分主色、辅助色和一处点睛。符号四周大片留白；文字最多是一小行像品牌标识的手工印刷字，没有普通标题和说明。",
+    "traits": ["剪纸色块", "丝网图标", "民艺现代", "鲜明暖色", "单一符号"],
+    "good": [
+      "外形饱满、剪影清楚的主体：一只公鸡、一个茶壶、一座小屋、一棵果树",
+      "颜色鲜活的生活照：水果摊上的一只橙子、红色邮筒、花盆里的植物",
+      "想做成地方文化项目、市集、生活方式品牌标志的照片"
+    ],
+    "poor": [
+      "细节密、线条多的主体：自行车链条、乐器内部、复杂花纹",
+      "整体灰暗、颜色很少的照片，难以提出温暖鲜明的色板",
+      "想要完整人物描绘、写实效果、光滑矢量或渐变的需求"
+    ]
+  },
+  "en": {
+    "name": "Cut-Paper Totem",
+    "tagline": "Keeps your photo and cuts the subject into one screenprinted folk symbol that still reads when tiny.",
+    "look": "The photo stays as it is. The design presses the subject into a bold, simple outline built from a few rounded or geometric flat shapes, with slightly exaggerated, not quite symmetrical proportions, as if cut by hand. Edges are irregular with a sliver of white paper showing, the screenprint ink lies unevenly, and paper fibre and slight misregistration are visible. The liveliest colours of the photo become warm hues such as coral, warm yellow, plant green, mist blue and cream, ranked as a main colour, a support colour and one accent. Wide whitespace surrounds the symbol; text is at most one small hand-printed brand-style word, never an ordinary title or caption.",
+    "traits": ["Cut-paper blocks", "Screenprint icon", "Folk modern", "Bright warm colours", "Single symbol"],
+    "good": [
+      "Full, clearly silhouetted subjects: a rooster, a teapot, a small cottage, a fruit tree",
+      "Everyday photos with lively colour: an orange at a fruit stall, a red postbox, a potted plant",
+      "Photos you want as a mark for a local culture project, a market or a lifestyle brand"
+    ],
+    "poor": [
+      "Subjects dense with detail and lines: a bicycle chain, the inside of an instrument, intricate patterns",
+      "Dull, nearly colourless photos, which give little to build a warm bright palette from",
+      "Requests for a full figure, realism, glossy vector or gradients"
+    ]
+  },
+  "ja": {
+    "name": "切り絵トーテム",
+    "tagline": "写真はそのままに、主役を小さくしても見分けられる、切り絵とシルクスクリーンの民藝シンボルにします。",
+    "look": "写真はそのまま残し、デザイン側は主役を大胆でシンプルな外形にまとめ、丸みのある形や幾何学的な形の色面を少しだけ組み合わせます。比率はやや誇張され、左右も完全には揃わず、手で切ったように見えます。切り口は不揃いで白い紙の縁が少しのぞき、シルクスクリーンのインクのむら、紙の繊維、わずかな版ずれも見えます。写真のいちばん生き生きした色を、コーラル、暖かい黄、植物の緑、霧のような青、クリームといった温かい色に置き換え、メイン、サブ、差し色に分けます。周りは大きな余白で、文字はあってもブランド表記のような手刷り風の小さな一語だけ、普通の見出しや説明文は入れません。",
+    "traits": ["切り絵の色面", "シルクスクリーンのアイコン", "民藝モダン", "鮮やかな暖色", "ひとつのシンボル"],
+    "good": [
+      "ふっくらしてシルエットのはっきりした主役：雄鶏、ティーポット、小さな家、実のなる木",
+      "色が生き生きした日常写真：果物屋のオレンジ、赤いポスト、鉢植え",
+      "地域の文化プロジェクト、マーケット、ライフスタイルブランドのマークにしたい写真"
+    ],
+    "poor": [
+      "細部や線が多い主役：自転車のチェーン、楽器の内部、複雑な文様",
+      "全体に暗く色の少ない写真（温かく鮮やかな色が取り出しにくい）",
+      "人物の全身描写、写実、なめらかなベクター、グラデーションを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "종이 오림 토템",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 작게 줄여도 알아볼 수 있는 종이 오림 실크스크린 민예 심벌로 만듭니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 주인공을 대담하고 단순한 외곽선으로 줄여 둥글거나 기하학적인 단색 면 몇 개로 짜 맞춥니다. 비율은 살짝 과장되고 좌우도 완전히 같지 않아 손으로 오린 것처럼 보입니다. 가장자리는 들쭉날쭉하고 흰 종이 테두리가 조금 드러나며, 실크스크린 잉크의 얼룩, 종이 섬유, 살짝 어긋난 색판도 보입니다. 사진에서 가장 생기 있는 색을 코랄, 따뜻한 노랑, 식물 초록, 안개 낀 파랑, 크림 같은 따뜻한 색으로 바꿔 주색, 보조색, 포인트로 나눕니다. 둘레는 넓게 비우고, 글자는 있어도 브랜드 표기 같은 작은 손인쇄 느낌의 한 단어뿐이며 일반 제목이나 설명은 넣지 않습니다.",
+    "traits": ["종이 오림 색면", "실크스크린 아이콘", "민예 모던", "선명한 난색", "단일 심벌"],
+    "good": [
+      "통통하고 실루엣이 분명한 주인공: 수탉, 찻주전자, 작은 집, 열매 달린 나무",
+      "색이 생기 있는 일상 사진: 과일 가게의 오렌지, 빨간 우체통, 화분 속 식물",
+      "지역 문화 프로젝트, 장터, 라이프스타일 브랜드의 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부와 선이 많은 주인공: 자전거 체인, 악기 내부, 복잡한 무늬",
+      "전체가 어둡고 색이 적은 사진(따뜻하고 선명한 색을 뽑기 어렵습니다)",
+      "인물 전신 묘사, 사실적인 표현, 매끈한 벡터, 그라데이션을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طوطم الورق المقصوص",
+    "tagline": "يحتفظ بصورتك ويقصّ عنصرها في رمز شعبي مطبوع بالشاشة الحريرية يبقى مقروءاً حتى بحجم صغير.",
+    "look": "تبقى الصورة كما هي، ويضغط التصميم العنصر في خط خارجي جريء وبسيط مبني من بضعة أشكال مسطحة مستديرة أو هندسية، بنِسب مبالغ فيها قليلاً وتناظر غير تام، كأنه مقصوص باليد. الحواف غير منتظمة يظهر منها شريط رفيع من الورق الأبيض، والحبر غير متساوٍ، مع ألياف الورق وانزياح طفيف في الألوان. تتحول أكثر ألوان الصورة حيوية إلى ألوان دافئة مثل المرجاني والأصفر الدافئ والأخضر النباتي والأزرق الضبابي والكريمي، مرتبة بين لون رئيسي ولون مساند ولمسة بارزة. تحيط بالرمز مساحة فارغة واسعة، والنص إن وُجد كلمة صغيرة واحدة بطابع الطباعة اليدوية كاسم علامة، من دون عناوين أو شروح عادية.",
+    "traits": ["مساحات ورق مقصوص", "أيقونة شاشة حريرية", "شعبي حديث", "ألوان دافئة زاهية", "رمز واحد"],
+    "good": [
+      "عناصر ممتلئة واضحة الظل: ديك، إبريق شاي، كوخ صغير، شجرة مثمرة",
+      "صور يومية بألوان حيّة: برتقالة في كشك فاكهة، صندوق بريد أحمر، نبتة في أصيص",
+      "صور تريدها علامةً لمشروع ثقافي محلي أو سوق شعبي أو علامة لأسلوب الحياة"
+    ],
+    "poor": [
+      "عناصر مزدحمة بالتفاصيل والخطوط: سلسلة دراجة، داخل آلة موسيقية، زخارف معقدة",
+      "صور باهتة قليلة الألوان، يصعب أن تُستخرج منها ألوان دافئة زاهية",
+      "طلب رسم كامل لشخص أو واقعية أو رسم متجهي لامع أو تدرّجات"
+    ]
+  }
+}
